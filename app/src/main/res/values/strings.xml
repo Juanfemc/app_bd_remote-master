@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bd</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sesion_blank_fragment">Iniciar Sesión</string>
+    <string name="wellcome_MainAct2">¡Bienvenido!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>
